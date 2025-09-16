@@ -114,4 +114,3 @@ This project explores how a customer’s **first negative review** impacts their
 
 ---
 
-Would you like me to also make this **README more concise (1–2 pages max)** for GitHub, or keep it **detailed (like a case study)** for portfolio recruiters?
